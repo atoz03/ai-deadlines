@@ -1,3 +1,195 @@
+- title: AAAI
+  year: 2026
+  id: aaai26
+  full_name: The 40th Annual AAAI Conference on Artificial Intelligence
+  link: https://aaai.org/conference/aaai/aaai-26/
+  deadline: '2025-08-02 19:59:59'
+  abstract_deadline: '2025-07-26 19:59:59'
+  timezone: Asia/Shanghai
+  place: Singapore, Singapore
+  date: January 20-27, 2026
+  start: 2026-01-20
+  end: 2026-01-27
+  sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/'>here</a>。
+
+- title: AISTATS
+  year: 2026
+  id: aistats26
+  full_name: The 29th International Conference on Artificial Intelligence and Statistics
+  link: https://aistats.org/aistats2026/
+  deadline: '2025-10-03 19:59:59'
+  abstract_deadline: '2025-09-26 19:59:59'
+  timezone: Asia/Shanghai
+  place: Tangier, Morocco
+  date: May 2-5, 2026
+  start: 2026-05-02
+  end: 2026-05-05
+  sub: ML
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://virtual.aistats.org/Conferences/2026/CallForPapers'>here</a>。
+
+- title: ICLR
+  year: 2026
+  id: iclr26
+  full_name: 14th International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2026
+  deadline: '2025-09-25 19:59:59'
+  abstract_deadline: '2025-09-20 19:59:59'
+  timezone: Asia/Shanghai
+  place: Rio de Janeiro, Brazil
+  date: April 23-27, 2026
+  start: 2026-04-23
+  end: 2026-04-27
+  sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://iclr.cc/Conferences/2026/CallForPapers'>here</a>。
+
+- title: CVPR
+  year: 2026
+  id: cvpr26
+  full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  link: https://cvpr.thecvf.com/Conferences/2026
+  deadline: '2025-11-14 19:59:59'
+  abstract_deadline: '2025-11-08 19:59:59'
+  timezone: Asia/Shanghai
+  place: Denver, Colorado, USA
+  date: June 3-7, 2026
+  start: 2026-06-03
+  end: 2026-06-07
+  sub: CV
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://cvpr.thecvf.com/Conferences/2026/Dates'>here</a>。
+
+- title: WACV
+  year: 2026
+  id: wacv26
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv.thecvf.com/Conferences/2026/CallForPapers
+  deadline: '2025-07-19 19:59:59'
+  abstract_deadline: '2025-07-12 19:59:59'
+  timezone: Asia/Shanghai
+  place: Tucson, Arizona, USA
+  date: March 6-10, 2026
+  start: 2026-03-06
+  end: 2026-03-10
+  sub: ['ML', 'CV']
+  note: 北京时间落库；Round 1 paper registration 与提交截止均源自官网 AoE(UTC-12)。更多信息 <a href='https://wacv.thecvf.com/Conferences/2026/Dates'>here</a>。
+
+- title: WACV
+  year: 2026
+  id: wacv26_2
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv.thecvf.com/Conferences/2026/CallForPapers
+  deadline: '2025-09-20 19:59:59'
+  abstract_deadline: '2025-09-13 19:59:59'
+  timezone: Asia/Shanghai
+  place: Tucson, Arizona, USA
+  date: March 6-10, 2026
+  start: 2026-03-06
+  end: 2026-03-10
+  sub: ['ML', 'CV']
+  note: 北京时间落库；Round 2 paper registration 与提交截止均源自官网 AoE(UTC-12)。更多信息 <a href='https://wacv.thecvf.com/Conferences/2026/Dates'>here</a>。
+
+- title: WSDM
+  year: 2026
+  id: wsdm26
+  full_name: The 19th ACM International WSDM Conference
+  link: https://wsdm-conference.org/2026/index.php/call-for-papers/
+  deadline: '2025-08-15 19:59:59'
+  abstract_deadline: '2025-08-08 19:59:59'
+  timezone: Asia/Shanghai
+  place: Boise, Idaho, USA
+  date: February 22-26, 2026
+  start: 2026-02-22
+  end: 2026-02-26
+  sub: DM
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://wsdm-conference.org/2026/index.php/call-for-papers/'>here</a>。
+
+- title: AAMAS
+  year: 2026
+  id: aamas26
+  full_name: International Conference on Autonomous Agents and Multiagent Systems
+  link: https://cyprusconferences.org/aamas2026/
+  deadline: '2025-10-09 19:59:59'
+  abstract_deadline: '2025-10-02 19:59:59'
+  timezone: Asia/Shanghai
+  place: Paphos, Cyprus
+  date: May 25-29, 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  sub: ['KR', 'ML', 'RO', 'AP']
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://cyprusconferences.org/aamas2026/important-dates/'>here</a>。
+
+- title: CHI
+  year: 2026
+  id: chi26
+  full_name: ACM Conference on Human Factors in Computing Systems
+  link: https://chi2026.acm.org/
+  deadline: '2025-09-12 19:59:59'
+  abstract_deadline: '2025-09-05 19:59:59'
+  timezone: Asia/Shanghai
+  place: Barcelona, Spain
+  date: April 13-17, 2026
+  start: 2026-04-13
+  end: 2026-04-17
+  sub: HCI
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://chi2026.acm.org/authors/papers/'>here</a>。
+
+- title: ECIR
+  year: 2026
+  id: ecir26
+  full_name: The 48th European Conference on Information Retrieval
+  link: https://ecir2026.eu/
+  deadline: '2025-10-03 19:59:59'
+  abstract_deadline: '2025-09-26 19:59:59'
+  timezone: Asia/Shanghai
+  place: Delft, The Netherlands
+  date: March 29-April 2, 2026
+  start: 2026-03-29
+  end: 2026-04-02
+  sub: DM
+  note: 北京时间落库；原始官网为 AoE(UTC-12)。更多信息 <a href='https://ecir2026.eu/calls/call-for-full-papers'>here</a>。
+
+- title: ICASSP
+  year: 2026
+  id: icassp26
+  full_name: The 51st IEEE International Conference on Acoustics, Speech, and Signal Processing
+  link: https://2026.ieeeicassp.org/
+  deadline: '2025-09-17 23:59:59'
+  timezone: Asia/Shanghai
+  place: Barcelona, Spain
+  date: May 4-8, 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  sub: SP
+  note: 北京时间落库；官网仅给出日期且未明确时区，按北京时间 23:59:59 记录。更多信息 <a href='https://2026.ieeeicassp.org/call-for-papers/'>here</a>。
+
+- title: ICRA
+  year: 2026
+  id: icra26
+  full_name: IEEE International Conference on Robotics and Automation
+  link: https://2026.ieee-icra.org/
+  deadline: '2025-09-16 15:59:59'
+  timezone: Asia/Shanghai
+  place: Vienna, Austria
+  date: June 1-5, 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  sub: RO
+  note: 北京时间落库；官网写明 Paper Submission Deadline 为 15 September 2025 (11:59 PST)，此处按北京时间折算记录。更多信息 <a href='https://2026.ieee-icra.org/contribute/'>here</a>。
+
+- title: EACL
+  year: 2026
+  id: eacl26
+  full_name: The 19th Conference of the European Chapter of the Association for Computational Linguistics
+  link: https://2026.eacl.org/
+  deadline: '2025-10-07 19:59:59'
+  timezone: Asia/Shanghai
+  place: Rabat, Morocco
+  date: March 24-29, 2026
+  start: 2026-03-24
+  end: 2026-03-29
+  sub: NLP
+  note: 北京时间落库；原始 ARR 提交截止为 2025-10-06 23:59 AoE(UTC-12)。更多信息 <a href='https://2026.eacl.org/calls/papers/'>here</a>。
+
 - title: AISTATS
   year: 2025
   id: aistats25
@@ -2697,4 +2889,3 @@
   end: 2024-09-12
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
-
